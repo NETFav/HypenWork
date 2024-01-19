@@ -3,7 +3,7 @@ HypenWork is a desktop application like VSCode, Sublime, Atom and manymore. You 
 
 ## Feautures
 * Create your Own Website with Ease
-* Luve Server
+* Live Server
 * Built In Devices
 * Create Your Own Virtual Device
 * Run On Edge or Chrome for Live
